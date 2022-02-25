@@ -20,7 +20,7 @@ The reason for this change is try to make BlackJack similar so the logic of movi
 * Pre-reading - Chapter 10 pg393 - pg420 - The State Design Pattern. 2009 Eric Freeman, Elisabeth Robson, Bert Bates, and Kathy Sierra. "Head First Design Patterns“ ~ 20 minutes
 * Watch the Adaoter Design Pattern Lecture
 * Review the example [https://stgit.dcs.gla.ac.uk/oose-2021-22-teaching-team/statetrafficlight](https://stgit.dcs.gla.ac.uk/oose-2021-22-teaching-team/statetrafficlight)
-* State Review Lecture ~4 minutes [Lecture](https://uofglasgow.zoom.us/rec/share/DHNa28H2A54pqexekGlxjwZIDKww0O4P5izCpVCcitnQT0g7dkTnWGFRn0cadVD1.VANUg_oaZwPHcZSl?startTime=1645478975000)
+* State Review Lecture ~8 minutes [Lecture](https://uofglasgow.zoom.us/rec/share/WIUsGVfxAQPODjKMPgrGdGdzlHRobhY3JECN0BhJw9T2KIcsJ-F-4zcOqLecZLAz.QfKdoVbAIc4qCLvY?startTime=1645812387000)
 
 ## Traffic Light Instructions
 * Go to the TrafficLight package
