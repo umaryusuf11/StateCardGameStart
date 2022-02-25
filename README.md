@@ -9,7 +9,7 @@ Create a state design pattern for Black Jack. There should be four states:
 The reason for this change is try to make BlackJack similar so the logic of moving states is not done using the state design pattern. We could now easily add a state to take a bet without effecting the core logic in BlackJack of how to play the game, 
 
 ## Setup
-* Fork - [https://git.dcs.gla.ac.uk/DerekSomerville/StateCardGameStart](https://git.dcs.gla.ac.uk/DerekSomerville/StateCardGameStart)
+* Fork - [https://stgit.dcs.gla.ac.uk/oose-2021-22-teaching-team/statecardgamestart](https://stgit.dcs.gla.ac.uk/oose-2021-22-teaching-team/statecardgamestart)
 * Clone your copy using gitbash
 * Open using existing files in your IDE
 * If you are interested in pair programming, it is optional, see [video](https://uofglasgow.zoom.us/rec/share/QjQt1zbjuwQGYgMrX1tDDBc-PUqa_CpvxJGI0gV1gvEStOTcGnn55ls_TQVRVbfD.N9qsbYv71kE0iBtJ?startTime=1644928799000),
