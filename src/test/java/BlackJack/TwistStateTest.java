@@ -22,7 +22,7 @@ class TwistStateTest {
     void setStateTwistThreeCards() {
         BlackJack blackJack = new BlackJack();
         blackJack.clearListOfState();
-        overrideInput.setInputValue("2,Derek,S,E");
+        overrideInput.setInputValue("2,Derek,E");
         blackJack.setUserInput(overrideInput);
         blackJack.initiate();
         Player player = blackJack.players.get(0);
