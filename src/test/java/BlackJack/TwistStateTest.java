@@ -20,6 +20,7 @@ class TwistStateTest {
 
     @org.junit.jupiter.api.Test
     void setStateTwistThreeCards() {
+        BlackJack blackJack = new BlackJack();
         blackJack.clearListOfState();
         overrideInput.setInputValue("2,Derek,S,E");
         blackJack.setUserInput(overrideInput);
