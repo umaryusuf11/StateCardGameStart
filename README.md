@@ -65,6 +65,19 @@ The reason for this change is try to make BlackJack similar so the logic of movi
 
 ### Advanced
 * Restart the game with new cards dealt if not end game - Advanced
+[11:25] Derek Somerville
+    
+
+* Restart the game with new cards dealt if not end game
+  * if end action passed end the game else
+    * Remove cards from each player so they no longer have the previous hand
+    * deal the cards
+    * restart the game, what is the starting state to go to
+* Play BlackJack
+
+
+
+(1 liked)
 * Play ``BlackJack``
 
 ## Submit
