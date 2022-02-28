@@ -18,7 +18,7 @@ The reason for this change is try to make BlackJack similar so the logic of movi
 
 ## Preparation
 * Pre-reading - Chapter 10 pg393 - pg420 - The State Design Pattern. 2009 Eric Freeman, Elisabeth Robson, Bert Bates, and Kathy Sierra. "Head First Design Patterns“ ~ 20 minutes
-* Watch the Adaoter Design Pattern Lecture
+* Watch the Adapter Design Pattern Lecture
 * Review the example [https://stgit.dcs.gla.ac.uk/oose-2021-22-teaching-team/statetrafficlight](https://stgit.dcs.gla.ac.uk/oose-2021-22-teaching-team/statetrafficlight)
 * State Review Lecture ~8 minutes [Lecture](https://uofglasgow.zoom.us/rec/share/WIUsGVfxAQPODjKMPgrGdGdzlHRobhY3JECN0BhJw9T2KIcsJ-F-4zcOqLecZLAz.QfKdoVbAIc4qCLvY?startTime=1645812387000)
 
