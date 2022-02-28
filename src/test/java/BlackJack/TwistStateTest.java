@@ -25,7 +25,7 @@ class TwistStateTest {
         blackJack.setUserInput(overrideInput);
         blackJack.initiate();
         Player player = blackJack.players.get(0);
-        twistState.setState(blackJack, player, BlackJackAction.TWIST );
+        twistState.setState(blackJack, player, BlackJackAction.END );
         assertEquals(3, player.getHand().size());
     }
 
