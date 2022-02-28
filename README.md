@@ -72,7 +72,7 @@ The reason for this change is try to make BlackJack similar so the logic of movi
   * if end action passed end the game else
     * Remove cards from each player so they no longer have the previous hand
     * deal the cards
-    * restart the game, what is the starting state to go to
+    * continue the game, what is the starting state to go to
 * Play BlackJack
 
 
