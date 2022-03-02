@@ -12,7 +12,7 @@ public class ReadyToPlayState implements PlayerState{
         } else if (action == BlackJackAction.STICK){
             state = new StickState();
         } else {
-            game.userOutput.output("Please select a different action");
+            state = new EndState();
         }
         game.setPlayerState(state, player, action);
     }
