@@ -3,6 +3,7 @@ package TrafficLight;
 public enum LightColour {
     RED("Red"),
     AMBER("Amber"),
+    BLUE("Blue"),
     GREEN("Green");
 
     private LightColour(String colour){
